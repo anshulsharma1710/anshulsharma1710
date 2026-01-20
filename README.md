@@ -12,7 +12,6 @@
 ###
 
 <div align="center">
-  <h3>Profile visits</h3>
   <img src="https://komarev.com/ghpvc/?username=anshulsharma1710&label=Profile%20views&color=blueviolet&style=flat" />
 </div>
 
