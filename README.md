@@ -1,108 +1,56 @@
-<h2 align="center">Hi 👋, I'm Anshul Sharma<br>Full-Stack Developer | Next.js, Node.js | Passionate About Scalable Web Apps, Devops & AI</h2>
+<h1 align="center">Hi, I'm Anshul Sharma</h1>
 
-###
+<h3 align="center">Data Engineer at HCLTech &nbsp;|&nbsp; AI/ML &nbsp;|&nbsp; Full-Stack</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulsharma1710&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulsharma1710&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  I build data pipelines, AI-powered apps and full-stack products.<br>
+  Right now I'm going deeper into data engineering and AI/ML engineering: RAG, agentic AI and MCP.
+</p>
 
-<br>
+<p align="center">
+  <a href="mailto:sanshul5555@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/anshulsharma02/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/workwithfloody"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="32" alt="HackerRank" /></a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshulsharma1710&label=Profile%20views&color=blueviolet&style=flat" />
-</div>
+## Featured projects
 
-###
+| Project | What it does | Built with |
+|---|---|---|
+| [**Meet.AI**](https://github.com/anshulsharma1710/meet-ai) | AI video calling platform with custom AI agents, auto-recording, transcripts and summaries. Tested with 50+ users. | Next.js, Stream SDK, OpenAI, Inngest, Drizzle, Postgres |
+| [**Vibe**](https://github.com/anshulsharma1710/vibe-deployment) | AI app builder. An AI agent writes code in an isolated sandbox and shows a live preview. | Next.js, Inngest AgentKit, E2B, Prisma, tRPC |
+| [**NightCode**](https://github.com/anshulsharma1710/nightcode) | Terminal-based AI coding agent with Plan and Build modes, streaming and saved sessions. | Bun, Hono, Prisma, AI SDK, Clerk |
+| [**Nodebase**](https://github.com/anshulsharma1710/nodebase) | Visual workflow automation with dependency-ordered, background execution. | Next.js, React Flow, Inngest, Prisma, Gemini |
+| [**Movie Recommender**](https://huggingface.co/spaces/anshulsharma1710/movie-recommender) | Content-based recommendation engine over 5,000+ films, with top-5 results in under 200 ms. | Python, Pandas, Scikit-learn, Streamlit |
+| [**Image AI**](https://github.com/anshulsharma1710/clone-canva-ai) | Canva-inspired design editor with AI image tools. | Next.js, Fabric.js, Hono, Drizzle |
+| [**Team Chat**](https://github.com/anshulsharma1710/team-chat) | Realtime team messaging with workspaces and a rich text editor. | Next.js, Convex, Quill |
 
-###
+---
 
-<div align="center">
-  <h3>Tech stacks</h3>
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="30" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-</div>
+## Tech stack
 
-###
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,pandas,numpy,sklearn,docker,aws,git,github&perline=11" alt="Data and tools" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,prisma,vercel&perline=9" alt="Full-stack" />
+</p>
 
-###
+---
 
-<div align="center">
-  <h3>Connect with me</h3>
-  <a href="mailto:sanshul5555@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anshulsharma02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/workwithfloody" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+## Currently
 
-###
+- Working as a Data Engineer at HCLTech
+- Exploring RAG, agentic AI and MCP
+- Practicing SQL, Python and data pipeline design
 
-<br clear="both">
+## Highlights
 
-<div align="center">
-<h3>Contribution graph</h3>
-<img src="https://raw.githubusercontent.com/anshulsharma1710/anshulsharma1710/output/snake.svg" alt="Snake animation" />
-</div>
+- 300+ DSA problems solved on GeeksforGeeks
+- 5-star Python, C and C++ on HackerRank
+- Team Lead, GDSC Android Team
 
+---
 
+<p align="center">Open to Data Engineer, AI/ML Engineer and Software Engineer roles. Reach me at <a href="mailto:sanshul5555@gmail.com">sanshul5555@gmail.com</a>.</p>
